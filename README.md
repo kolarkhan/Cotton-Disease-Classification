@@ -79,34 +79,7 @@ To get started, clone this repository and install the required dependencies:
 git clone https://github.com/your-username/cotton-disease-classification.git
 cd cotton-disease-classification
 pip install -r requirements.txt
-Ensure you have the following dependencies in your requirements.txt file:
 
-Copy code
-numpy
-pandas
-matplotlib
-tensorflow
-scikit-learn
-jupyter
-#Usage
-Download the dataset and place it in the appropriate directory.
-Run the Jupyter notebook to train the model:
-bash
-Copy code
-jupyter notebook update-proposed-model.ipynb
-The notebook includes steps for data loading, preprocessing, model training, and evaluation.
-#Results
-The model achieves the following performance metrics on the validation set:
-
-Accuracy: 95%
-Precision: 94%
-Recall: 93%
-F1 Score: 93%
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
-
-#License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 For any questions or inquiries, please contact:
