@@ -36,10 +36,8 @@ git clone https://github.com/kolarkhan/cotton-disease-classification.git
 cd cotton-disease-classification
 pip install -r requirements.txt
 
-```bash
-git clone https://github.com/your-username/cotton-disease-classification.git
-cd cotton-disease-classification
-pip install -r requirements.txt
+##Usage
+
 
 
 Contact
