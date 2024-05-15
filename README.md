@@ -36,7 +36,7 @@ git clone https://github.com/kolarkhan/cotton-disease-classification.git
 cd cotton-disease-classification
 pip install -r requirements.txt
 
-##Contact
+## Contact
 For any questions or inquiries, please contact:
 
 Name: Kolar Khan
