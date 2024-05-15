@@ -84,6 +84,6 @@ pip install -r requirements.txt
 Contact
 For any questions or inquiries, please contact:
 
-Name: Ravi Patel
-Email: Ravi0740@gmail.com
-LinkedIn: Ravi Patel
+Name: Kolar Khan
+Email: kolar0740@gmail.com
+LinkedIn: Kolar khan
