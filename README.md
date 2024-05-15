@@ -34,8 +34,7 @@ To get started, clone this repository and install the required dependencies:
 
 git clone https://github.com/kolarkhan/cotton-disease-classification.git
 cd cotton-disease-classification
-```bash
-pip install -r requirements.txt ```bash
+pip install -r requirements.txt
 
 ## Contact
 For any questions or inquiries, please contact:
