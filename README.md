@@ -32,6 +32,6 @@ The model is a convolutional neural network (CNN) with the following layers:
 To get started, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/cotton-disease-classification.git
+git clone https://github.com/kolarkhan/cotton-disease-classification.git
 cd cotton-disease-classification
 pip install -r requirements.txt
